@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Fly like a Free Bird on Fly like a Free Bird</title>
-    <link>https://flylikeafreebird.com/index.xml</link>
-    <description>Recent content in Fly like a Free Bird on Fly like a Free Bird</description>
+    <title>Blogs on Fly like a Free Bird</title>
+    <link>https://flylikeafreebird.com/blog/index.xml</link>
+    <description>Recent content in Blogs on Fly like a Free Bird</description>
     <generator>Hugo --- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2017, Fly Like a Free Bird LLC; all rights reserved.</copyright>
     <lastBuildDate>Mon, 13 Feb 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -364,12 +364,6 @@ Dance it&amp;rsquo;s free too.&lt;/p&gt;
 </description>
     </item>
     
-  
-
-  
-
-  
-
    
   </channel>
 </rss>
